@@ -10,13 +10,13 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.115",
+    "@types/lodash": "^4.14.116",
     "@types/qs": "^6.5.1",
     "axios": "^0.18.0",
-    "dayjs": "^1.7.4",
-    "element-ui": "^2.4.5",
+    "dayjs": "^1.7.5",
+    "element-ui": "^2.4.6",
     "normalize.css": "^8.0.0",
-    "vue": "^2.5.16",
+    "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
@@ -24,13 +24,13 @@
     "vuex-class": "^0.3.1"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-optional-catch-binding": "^7.0.0-beta.55",
+    "@babel/plugin-proposal-optional-catch-binding": "^7.0.0-rc.1",
     "@types/jest": "^23.1.4",
-    "@vue/cli-plugin-babel": "^3.0.0-rc.10",
-    "@vue/cli-plugin-e2e-nightwatch": "^3.0.0-rc.10",
-    "@vue/cli-plugin-typescript": "^3.0.0-rc.10",
-    "@vue/cli-plugin-unit-jest": "^3.0.0-rc.10",
-    "@vue/cli-service": "^3.0.0-rc.10",
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-plugin-e2e-nightwatch": "^3.0.0",
+    "@vue/cli-plugin-typescript": "^3.0.0",
+    "@vue/cli-plugin-unit-jest": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
     "@vue/test-utils": "^1.0.0-beta.20",
     "babel-core": "7.0.0-bridge.0",
     "lint-staged": "^6.0.0",
@@ -38,7 +38,7 @@
     "sass-loader": "^7.0.1",
     "ts-jest": "^23.0.0",
     "typescript": "^3.0.0",
-    "vue-template-compiler": "^2.5.16"
+    "vue-template-compiler": "^2.5.17"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
