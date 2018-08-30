@@ -24,7 +24,7 @@
     "vuex-class": "^0.3.1"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-optional-catch-binding": "^7.0.0-rc.1",
+    "@babel/plugin-proposal-optional-catch-binding": "^7.0.0",
     "@types/jest": "^23.1.4",
     "@vue/cli-plugin-babel": "^3.0.0",
     "@vue/cli-plugin-e2e-nightwatch": "^3.0.0",
